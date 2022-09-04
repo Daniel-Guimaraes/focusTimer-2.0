@@ -55,14 +55,14 @@ FocusTimer é um contador no estilo pomodoro, para ajudar na concentração em e
 
 ### Web
 
-<p align="center" style="display: flex; align-items: flex-start; flex-direction: column; justify-content: center; gap: 20px;">
+<p align="center" style="display: flex; align-items: flex-start; flex-direction: column; justify-content: center; gap: 2rem;">
   <img alt="Banner do projeto para desktop" title="#FocusTimer" src="./assets/banner-tema-claro.png" width="600px">
   <img alt="Banner do projeto para desktop" title="#FocusTimer" src="./assets/banner-tema-escuro.png" width="600px"> 
 </p>
 
 ### Mobile
 
-<p align="center" style="display: flex; align-items: flex-start; gap: 20px;">
+<p align="center" style="display: flex; align-items: flex-start; gap: 2rem;">
   <img alt="Banner do projeto para mobile com o tema claro" title="#ReveleSeuDestino" src="./assets/banner-mobile-tema-claro.png" width="300px">
   <img alt="Banner do projeto para mobile com o tema escuro " title="#ReveleSeuDestino" src="./assets/banner-mobile-tema-escuro.png" width="300px">
 
