@@ -94,7 +94,7 @@ FocusTimer é um contador no estilo pomodoro, para ajudar na concentração em e
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE.md).
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Daniel Guimarães 👋🏽 [Entre em contato!](https://www.linkedin.com/in/daniel-guimaraes-vieira/)
 
