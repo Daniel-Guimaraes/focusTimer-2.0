@@ -69,6 +69,15 @@ FocusTimer é um contador no estilo pomodoro, para ajudar na concentração em e
 
 ---
 
+### Vídeo da aplicação
+
+
+
+https://user-images.githubusercontent.com/102679381/188327867-e93dbcef-9c95-4351-b045-6b8ef74aafc6.mp4
+
+
+
+
 ## 🛠 Tecnologias
 
 <div style="display: inline_block"><br/>
