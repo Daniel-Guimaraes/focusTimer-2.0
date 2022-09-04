@@ -24,7 +24,7 @@
 
 ## 💻 Sobre o projeto
 
-FocusTimer é um contador no estilo pomodoro, para ajudar na concentração em estudos, trabalho, tarefas casuais, etc. Ele conta também com músicas relaxantes que vão ajudar ainda mais a manter o focu e a criatividade.
+FocusTimer é um contador no estilo pomodoro, para ajudar na concentração em estudos, trabalho, tarefas casuais, etc. Ele conta também com músicas relaxantes que vão ajudar ainda mais a manter o foco e a criatividade.
 
 ## ⚙️ Funcionalidades
 
