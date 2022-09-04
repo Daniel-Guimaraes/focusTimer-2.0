@@ -71,11 +71,11 @@ FocusTimer é um contador no estilo pomodoro, para ajudar na concentração em e
 
 ## 🛠 Tecnologias
 
-<p align="center" style="display: flex; align-items: flex-start; gap: 30px;">
-  <img alt="Icone Css3" title="#Css3" src="./assets/css3.svg" width="100px">
-  <img alt="Icone Html5" title="#Html5" src="./assets/html5.svg" width="100px">
-  <img alt="Icone JavaScript" title="#JavaScript" src="./assets/javascript.svg" width="100px">
-</p>
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div><br/>
 
 ---
 
