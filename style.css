@@ -1,0 +1,175 @@
+/* ---------------------------- GERAL ----------------------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  
+  --theme-light-icon: hsl(0, 0%, 0%); 
+
+  --theme-dark-background-cards: hsl(240, 6%, 17%);
+  --color-light: hsl(0, 0%, 100%);
+  --theme-dark-fill: hsl(240, 7%, 78%);
+  --theme-dark-hover: hsl(195, 74%, 15%);
+
+  --primary-color: hsl(240, 6%, 21%);
+  --background-cards: hsla(240, 9%, 89%, 1);
+  --background-hover: hsl(194, 97%, 31%);
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: 'Roboto', sans-serif;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}
+
+.dark-theme,
+.light-theme {
+  position: absolute;
+  top: 6rem;
+  right: 6rem;
+}
+
+/* ---------------------------- THEME DARK ----------------------------------- */
+
+.dark-mode {
+  background-color: black;
+}
+
+.dark-mode .time span {
+  color: var(--color-light);
+}
+
+.dark-mode .card button {
+  background: var(--theme-dark-background-cards);
+}
+
+.dark-mode .card button:hover {
+  background: var(--theme-dark-hover);
+}
+
+.dark-mode svg path {
+  fill: var(--theme-dark-fill);
+}
+
+.dark-mode button .range::-webkit-slider-thumb,
+.dark-mode button .range {
+  background: var(--color-light);
+}
+
+.dark-mode .dark-theme svg path {
+  fill: var(--color-light);
+}
+
+.dark-mode .light-theme svg path {
+  fill: var(--theme-light-icon);
+}
+
+/* ---------------------------- MAIN ----------------------------------- */
+
+main {
+  display: flex;
+  align-items: center;
+  gap: 18.8rem;
+  padding: 5rem;
+}
+
+.time {
+  display: flex;
+  margin-bottom: 3rem;
+}
+
+.time span {
+  font-size: 12.6rem;
+  line-height: 14.8rem;
+  color: var(--primary-color);
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.sounds {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3.2rem;
+  width: 30.8rem;
+}
+
+.card button {
+  background: var(--background-cards);
+  width: 13.8rem;
+  height: 15.2rem;
+  border-radius: 2.4rem;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+
+.card button:focus,
+.card button:hover {
+  background: var(--background-hover);
+  transform: scale(1.1);
+}
+
+.card button:focus svg path,
+.card button:hover svg path {
+  fill: var(--color-light);
+}
+
+.card button:focus .range::-webkit-slider-thumb,
+.card button:hover .range::-webkit-slider-thumb,
+.card button:focus .range,
+.card button:hover .range {
+  background-color: var(--color-light);
+}
+
+.range {
+  position: relative;
+  appearance: none;
+  width: 9rem;
+  height: 0.4rem;
+  border-radius: 5px;
+  background-color: var(--primary-color);
+  margin-top: 3.8rem;
+}
+
+.range::-webkit-slider-thumb {
+  appearance: none;
+  width: 1.6rem;
+  height: 1.6rem;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+}
+
+@media (max-width: 900px) {
+  main {
+    margin-top: 5rem;
+    flex-direction: column;
+    gap: 5rem;
+  }
+
+  .light-theme,
+  .dark-theme {
+    top: 2rem;
+    right: 3rem;
+  }
+}
