@@ -45,7 +45,7 @@ FocusTimer é um contador no estilo pomodoro, para ajudar na concentração em e
   - [x] + = adiciona 5 minutos;
   - [x] - = reduz em 5 minutos;
 
-- [x] Alarme quando o contador chega no fim;
+- [x] Quando o contador chegar no fim, vai ser tocado um alarme;
 
 - [x] Botão de regulagem do volume para cada som;
 
