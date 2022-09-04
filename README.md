@@ -6,11 +6,11 @@
 </p>
 
 <h1 align="center">
-    <img alt="Banner do projeto" title="#FocusTimer 2.0" src="./assets/banner.png" />
+    <img alt="Banner do projeto" title="#FocusTimer" src="./assets/banner-tema-claro.png" />
 </h1>
 
 <h4 align="center"> 
-	🚧 Projeto 🔮 Concluído 🚀 🚧
+	🚀 Projeto Concluído 🚀
 </h4>
 
 <p align="center">
@@ -24,17 +24,30 @@
 
 ## 💻 Sobre o projeto
 
-É uma landing page bastante divertida e com um leve toque de mistério, que tem como objetivo revelar o destino do usuário.
-
-Projeto desenvolvido durante a **Maratona Explorer** oferecida pela [Rocketseat](https://rocketseat.com.br).
-A maratona Explorer é uma experiência online com muito conteúdo prático, desafios e hacks onde pude aprender muitas técnicas novas e me especializar ainda mais.
-
----
+FocusTimer é um contador no estilo pomodoro, para ajudar na concentração em estudos, trabalho, tarefas casuais, etc. Ele conta também com músicas relaxantes que vão ajudar ainda mais a manter o focu e a criatividade.
 
 ## ⚙️ Funcionalidades
 
-- [x] O usuário pode interagir com a página por meio de perguntas;
-- [x] Para cada pergunta é gerada uma previsão do destino do usuário;
+- [x] Alternancia de temas;
+
+  - [x] Tema claro;
+  - [x] Tema escuro;
+
+- [x] Sons para concetração;
+
+  - [x] Floresta
+  - [x] Chuva
+  - [x] Fogueira
+  - [x] Cafeteria
+
+- [x] Controle do tempo;
+
+  - [x] - = adiciona 5 minutos;
+  - [x] - = reduz em 5 minutos;
+
+- [x] Alarme quando o contador chega no fim;
+
+- [x] Botão de regulagem do volume para cada som;
 
 ---
 
@@ -43,15 +56,15 @@ A maratona Explorer é uma experiência online com muito conteúdo prático, des
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; flex-direction: column; justify-content: center; gap: 20px;">
-  <img alt="Banner do projeto para desktop" title="#ReveleSeuDestino" src="./assets/banner.png" width="600px">
-  <img alt="Execução do projeto" title="#ReveleSeuDestino" src="./assets/web.png" width="600px"> 
+  <img alt="Banner do projeto para desktop" title="#FocusTimer" src="./assets/banner-tema-claro.png" width="600px">
+  <img alt="Banner do projeto para desktop" title="#FocusTimer" src="./assets/banner-tema-escuro.png" width="600px"> 
 </p>
 
 ### Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; gap: 20px;">
-  <img alt="Banner do projeto para mobile" title="#ReveleSeuDestino" src="./assets/banner-mobile.jpeg" width="300px">
-  <img alt="Execução do projeto para mobile" title="#ReveleSeuDestino" src="./assets/execução-mobile.jpeg" width="300px">
+  <img alt="Banner do projeto para mobile com o tema claro" title="#ReveleSeuDestino" src="./assets/banner-mobile-tema-claro.png" width="300px">
+  <img alt="Banner do projeto para mobile com o tema escuro " title="#ReveleSeuDestino" src="./assets/banner-mobile-tema-escuro.png" width="300px">
 
 </p>
 
