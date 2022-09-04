@@ -42,7 +42,7 @@ FocusTimer é um contador no estilo pomodoro, para ajudar na concentração em e
 
 - [x] Controle do tempo;
 
-  - [x] - = adiciona 5 minutos;
+  - [x] + = adiciona 5 minutos;
   - [x] - = reduz em 5 minutos;
 
 - [x] Alarme quando o contador chega no fim;
@@ -79,12 +79,12 @@ FocusTimer é um contador no estilo pomodoro, para ajudar na concentração em e
 
 ---
 
-## 🦸 Autor
+## Autor
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/daniel-guimaraes-vieira/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102679381?s=400&u=455e0e12c6d9f088ef8ff8f33bd2205f4847476e&v=4" width="100px;" alt="Foto do autor do projeto"/>
  <br />
- <sub><b>Daniel Guimarães</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
+ <sub><b>Daniel Guimarães</b></sub></a> <a href="https://www.linkedin.com/in/daniel-guimaraes-vieira/" title="Rocketseat">🚀</a>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-guimaraes-vieira/)](https://www.linkedin.com/in/daniel-guimaraes-vieira/)
