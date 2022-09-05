@@ -36,6 +36,10 @@ button {
   cursor: pointer;
 }
 
+button:focus {
+  outline: 0;
+}
+
 .hide {
   display: none;
 }
@@ -47,10 +51,6 @@ button {
   right: 6rem;
 }
 
-input,
-button {
-  -webkit-tap-highlight-color: transparent;
-}
 
 /* ---------------------------- THEME DARK ----------------------------------- */
 
