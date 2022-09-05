@@ -47,6 +47,11 @@ button {
   right: 6rem;
 }
 
+input,
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
 /* ---------------------------- THEME DARK ----------------------------------- */
 
 .dark-mode {
