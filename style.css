@@ -8,8 +8,8 @@
 
 :root {
   font-size: 62.5%;
-  
-  --theme-light-icon: hsl(0, 0%, 0%); 
+
+  --theme-light-icon: hsl(0, 0%, 0%);
 
   --theme-dark-background-cards: hsl(240, 6%, 17%);
   --color-light: hsl(0, 0%, 100%);
@@ -36,10 +36,6 @@ button {
   cursor: pointer;
 }
 
-button:focus {
-  outline: 0;
-}
-
 .hide {
   display: none;
 }
@@ -50,7 +46,6 @@ button:focus {
   top: 6rem;
   right: 6rem;
 }
-
 
 /* ---------------------------- THEME DARK ----------------------------------- */
 
@@ -128,7 +123,6 @@ main {
   cursor: pointer;
   transition: all 0.5s;
 }
-
 
 .card button:focus,
 .card button:hover {
